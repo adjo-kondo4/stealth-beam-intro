@@ -214,7 +214,7 @@ export default function Index() {
       {/* Footer */}
       <footer className="py-12 border-t border-border text-center px-6">
         <p className="font-mono text-xs text-muted-foreground/50">
-          &copy; 2025 CYBERSENTINEL // TOUS DROITS RÉSERVÉS // <span className="text-primary/30">ENCRYPTED_CONNECTION</span>
+          &copy; 2026 CYBERSENTINEL // TOUS DROITS RÉSERVÉS // <span className="text-primary/30">ENCRYPTED_CONNECTION</span>
         </p>
       </footer>
     </div>
