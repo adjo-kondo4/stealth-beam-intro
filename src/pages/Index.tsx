@@ -190,7 +190,7 @@ export default function Index() {
             <p className="text-muted-foreground">Une question ? Un projet urgent ? Envoyez un message sécurisé.</p>
           </div>
 
-          <form action="https://formspree.io/f/votre_id_ici" method="POST" className="grid md:grid-cols-2 gap-6">
+          <form action="https://formspree.io/f/xdawpjnp" method="POST" className="grid md:grid-cols-2 gap-6">
             <div className="space-y-2">
               <label className="text-xs font-mono text-muted-foreground uppercase ml-1">Nom complet</label>
               <input type="text" name="name" required placeholder="John Doe" className="input-field" />
