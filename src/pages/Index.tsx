@@ -94,7 +94,7 @@ export default function Index() {
             className="text-5xl md:text-7xl font-extrabold tracking-tight mb-8"
           >
             Protégez vos actifs <br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-emerald-600">
+            <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-accent">
               dans le cyberespace.
             </span>
           </motion.h1>
